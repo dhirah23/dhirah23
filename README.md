@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Hadhirah 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main%20Stack-Full--Stack-blue?style=for-the-badge" alt="Main Stack" />
